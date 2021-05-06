@@ -18,8 +18,8 @@ def home():
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
-    #res=try1(userText)
-    return str((userText)) 
+    res=try1(userText)
+    return str((res)) 
 
 if __name__ == '__main__':
     app.secret_key = 'super_secret_key'
