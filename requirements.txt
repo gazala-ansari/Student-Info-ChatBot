@@ -1,7 +1,7 @@
 nltk
-
-pickle
 numpy
+pickle
+
 keras.models
 json
 random
