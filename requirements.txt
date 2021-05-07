@@ -1,0 +1,7 @@
+nltk
+nltk.stem
+pickle
+numpy
+keras.models
+json
+random
