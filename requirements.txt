@@ -1,6 +1,6 @@
 nltk
 nltk.punkt
-nltk.'wordnet'
+nltk.wordnet
 nltk.stem 
 
 json
