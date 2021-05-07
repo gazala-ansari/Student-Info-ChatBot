@@ -1,8 +1,8 @@
 nltk
-nltk.download('punkt')
-nltk.download('wordnet')
-from nltk.stem import WordNetLemmatizer
-lemmatizer = WordNetLemmatizer()
+nltk.punkt
+nltk.'wordnet'
+nltk.stem 
+
 json
 pickle
 
